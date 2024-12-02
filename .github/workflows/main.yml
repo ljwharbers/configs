@@ -169,6 +169,7 @@ jobs:
           - "wustl_htcf"
           - "xanadu"
           - "york_viking"
+          - "vib"
 
     steps:
       - uses: actions/checkout@v4

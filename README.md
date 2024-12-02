@@ -219,6 +219,7 @@ Currently documentation is available for the following systems:
 - [WUSTL_HTCF](docs/wustl_htcf.md)
 - [XANADU](docs/xanadu.md)
 - [YORK_VIKING](docs/york_viking.md)
+- [VIB](docs/vib.md)
 
 ### Uploading to `nf-core/configs`
 
